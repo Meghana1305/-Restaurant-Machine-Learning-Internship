@@ -1,4 +1,4 @@
-# Cognifyz Technologies – Machine Learning Internship Project
+#  Restaurant – Machine Learning Internship Project
 
 ## 📌 Project Overview
 This repository contains the machine learning tasks completed as part of my internship at **Cognifyz Technologies**. The project focuses on analyzing a restaurant dataset and building predictive and analytical models using Python and popular machine learning libraries.
